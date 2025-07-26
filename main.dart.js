@@ -79955,14 +79955,14 @@ s.aw()
 return null},
 $S:0}
 A.aib.prototype={
-$2(a,b){var s,r,q,p="Flutter",o="Full Stack",n=null
+$2(a,b){var s,r,q,p="Full Stack",o=null
 if(this.a){s=J.a1u(3,t.l7)
-for(r=0;r<3;++r)s[r]=new A.cy(B.CN,new A.ns(p,o,n),n)
+for(r=0;r<3;++r)s[r]=new A.cy(B.CN,new A.ns("Java + DSA ",p,o),o)
 return A.l3(s,B.aM,B.aQ,B.aH)}else{q=t.l7
 if(this.b){s=J.a1u(3,q)
-for(q=b.b/2-30,r=0;r<3;++r)s[r]=new A.i2(q,n,new A.ns(p,o,n),n)
+for(q=b.b/2-30,r=0;r<3;++r)s[r]=new A.i2(q,o,new A.ns("Flutter",p,o),o)
 return A.auo(s,20,20)}else{s=J.a1u(3,q)
-for(r=0;r<3;++r)s[r]=new A.ft(1,B.iW,new A.ns(p,o,n),n)
+for(r=0;r<3;++r)s[r]=new A.ft(1,B.iW,new A.ns("Flutter",p,o),o)
 return A.zn(s,B.rz,B.aH)}}},
 $S:516}
 A.aic.prototype={
